@@ -26,7 +26,7 @@ namespace GrafOfOphilir.Workers
 
             for(var i = 0 ; i < graphNodesCount;i++)
             {
-                var node = graphNodes.ElementAt(i);Щ
+                var node = graphNodes.ElementAt(i);
                 if(node.ReferenceIds == null) continue;
 
                 foreach (var childId in node.ReferenceIds)
