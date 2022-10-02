@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrafOfOphilir", "GrafOfOphilir.csproj", "{398AB696-7A06-4626-86AF-B868A69219A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "..\UnitTests\UnitTests.csproj", "{45D1D109-EA84-42E2-91CB-566CE0F4459E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{398AB696-7A06-4626-86AF-B868A69219A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{398AB696-7A06-4626-86AF-B868A69219A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{398AB696-7A06-4626-86AF-B868A69219A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{398AB696-7A06-4626-86AF-B868A69219A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45D1D109-EA84-42E2-91CB-566CE0F4459E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D1D109-EA84-42E2-91CB-566CE0F4459E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D1D109-EA84-42E2-91CB-566CE0F4459E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45D1D109-EA84-42E2-91CB-566CE0F4459E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94F11C82-1350-41AE-AAA1-71F42A59F86C}
+	EndGlobalSection
+EndGlobal
